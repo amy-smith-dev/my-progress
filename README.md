@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Avrum Indig!
 
-### 🚀 Software Developer | API & Data Enthusiast
+### 🚀 Software Developer | API & Data engineer
 
 Welcome to my GitHub! I specialize in building robust APIs and data-driven applications using **C#**, **ASP.NET Core**, **Java**, **SQL**, and **NoSQL (MongoDB)** technologies. I’m passionate about solving real-world problems with clean code and scalable solutions.
 
@@ -37,5 +37,6 @@ Check out more of my projects:
 <!--
 **ayindig1948/ayindig1948** is a ✨ special ✨ repository because its README will appear on your GitHub profile!
 -->
+
 
 
