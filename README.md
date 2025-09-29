@@ -1,12 +1,40 @@
-# my-progress
-## I lerend java and c# and sql.
-I did work in asp.net core
-[Sample code](https://github.com/ayindig1948/Hotel-Soulution/tree/master/HotelApp.Net).
-## I did  work in api
-[Api sample](https://github.com/ayindig1948/Town-Data-App/tree/master/TownApi)
-## I build Sql data and no sql data database .
-[Sample database code](https://github.com/ayindig1948/Hotel-Soulution/tree/master/HotelSqlData)
-## I plane to learn html css and javascript anguler blazor.
+# 👋 Hi, I’m Avrum Indig!
 
+### 🚀 Software Developer | API & Data Enthusiast
 
+Welcome to my GitHub! I specialize in building robust APIs and data-driven applications using **C#**, **ASP.NET Core**, **Java**, **SQL**, and **NoSQL (MongoDB)** technologies. I’m passionate about solving real-world problems with clean code and scalable solutions.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C#, Java, SQL
+- **Frameworks:** ASP.NET Core
+- **Databases:** SQL Server, MongoDB
+- **Other Skills:** API Development, Data Modeling, Backend Systems
+
+---
+
+## 🌟 Featured Projects
+
+- [🏙️ Town-Data-App](https://github.com/ayindig1948/Town-Data-App)  
+  Data-driven application for managing and visualizing town information.
+
+- [🏨 Hotel-Soulution](https://github.com/ayindig1948/Hotel-Soulution)  
+  End-to-end solution for hotel management, reservations, and data analytics.
+
+---
+
+## 📈 Latest Activity
+
+Check out more of my projects:
+- 
+- [New-Repo](https://github.com/ayindig1948/New-Repo)
+- [MoshHtml](https://github.com/ayindig1948/MoshHtml)
+- [MyGitDemo](https://github.com/ayindig1948/MyGitDemo)
+
+---
+
+<!--
+**ayindig1948/ayindig1948** is a ✨ special ✨ repository because its README will appear on your GitHub profile!
+-->
 
