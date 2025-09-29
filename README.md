@@ -20,7 +20,7 @@ Welcome to my GitHub! I specialize in building robust APIs and data-driven appli
   Data-driven application for managing and visualizing town information.
 
 - [🏨 Hotel-Soulution](https://github.com/ayindig1948/Hotel-Soulution)  
-  End-to-end solution for hotel management, reservations, and data analytics.
+  End-to-end solution for hotel management, reservations.
 
 ---
 
@@ -37,4 +37,5 @@ Check out more of my projects:
 <!--
 **ayindig1948/ayindig1948** is a ✨ special ✨ repository because its README will appear on your GitHub profile!
 -->
+
 
