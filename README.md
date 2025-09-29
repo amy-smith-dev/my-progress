@@ -24,19 +24,13 @@ Welcome to my GitHub! I specialize in building robust APIs and data-driven appli
 
 ---
 
-## 📈 Latest Activity
-
-Check out more of my projects:
-- 
-- [New-Repo](https://github.com/ayindig1948/New-Repo)
-- [MoshHtml](https://github.com/ayindig1948/MoshHtml)
-- [MyGitDemo](https://github.com/ayindig1948/MyGitDemo)
 
 ---
 
 <!--
 **ayindig1948/ayindig1948** is a ✨ special ✨ repository because its README will appear on your GitHub profile!
 -->
+
 
 
 
